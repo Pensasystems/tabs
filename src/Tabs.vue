@@ -168,7 +168,7 @@ export default {
     }
 
     .tab-content {
-      margin: 30px 10px;
+      margin: 0;
     }
   }
   &.is-layout-right {
